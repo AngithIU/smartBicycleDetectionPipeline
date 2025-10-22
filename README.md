@@ -7,8 +7,7 @@ Achievable: Use open datasets from the Berlin Open Data Portal and implement
 predictive analytics within 12 weeks.
 Relevant: Combines machine learning, data visualization, and spatial analytics—key
 domains of Data Science and Computer Science.
-Time-bound: Project completion and evaluation within one academic semester (12
-weeks).
+Time-bound: Project completion and evaluation within one academic semester.
 
 # Abstract:
  Cycling is becoming increasingly popular in Berlin, but despite the city’s investment in new
