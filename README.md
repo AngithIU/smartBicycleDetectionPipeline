@@ -10,7 +10,7 @@ domains of Data Science and Computer Science.
 Time-bound: Project completion and evaluation within one academic semester (12
 weeks).
 
-#Abstract:
+# Abstract:
  Cycling is becoming increasingly popular in Berlin, but despite the city’s investment in new
 cycling infrastructure, the number of road accidents involving cyclists remains a major
 concern. This project proposes a data-driven solution to analyze, predict, and visualize
